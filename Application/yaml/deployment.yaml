@@ -4,7 +4,7 @@ metadata:
 # set your lab user name
   name: rotemlibrati-hello-world
 spec:
-  replicas: 3
+  replicas: 1
   selector:
     matchLabels:
 # set your lab user name
