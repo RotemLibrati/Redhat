@@ -4,7 +4,7 @@ description: A Helm chart for Kubernetes
 type: application
 dependencies:
   - name: redhat2
-    repository: oci://ghcr.io/rotemlibrati/helm/
+    repository: oci://ghcr.io/RotemLibrati/helm
     version: "1.0.0"
     alias: deploy1
 version: 1.0.0
